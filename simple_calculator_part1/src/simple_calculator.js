@@ -10,13 +10,6 @@ function add(){
 
 
 
-console.log(add(1,2))
-console.log(add(-1,-1))
-console.log(add(1,2,3,4,5))
-console.log(add(1,2))
-console.log(add(-1,-1));
-
-
 function  multiply(){
     let product = 1;
     for(let j = 0; j < arguments.length; j++){
@@ -24,12 +17,7 @@ function  multiply(){
     }     
     return product;
 }
-console.log(multiply(1,3))
-console.log(multiply(-1,3))
-console.log(multiply(1,2,3,4,5))
-console.log(multiply(1,3))
-console.log(multiply(-1,3));
 
-module.exports = {
+module.export ={
     add,multiply
 }

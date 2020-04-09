@@ -1,0 +1,11 @@
+{
+  "name": "simple_calculator_part1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lethaboletsoalo",
+  "license": "ISC"
+}
